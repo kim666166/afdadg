@@ -88,6 +88,11 @@ var l_musicPlaylist = [
 	{youtube: "Yqtoz4Sw_40", name: "Jamie N Commons - Karma"},
 	{youtube: "182TRJq9Zt8", name: "Sam Smith - Leave Your Lover"},
 	{youtube: "BiQIc7fG9pA", name: "gnash - i hate u, i love u (ft. olivia o'brien)"}
+	{youtube: "48VSP-atSeI", name: "Maroon 5 - Sugar"},
+	{youtube: "GFQYaoiIFh8", name: "Demons - Imagine Dragons"},
+	{youtube: "VdHAgXsiqR4", name: "DIA 다이아 - 그 길에서 (On the road)"},
+	{youtube: "Yim4--J44gk", name: "OneRepublic - Counting Stars"},
+	{youtube: "2B50RUXbs-8", name: "Rihanna - Love The Way You Lie (Part 2)"}
 ];
 
 /*Random music order?*/
